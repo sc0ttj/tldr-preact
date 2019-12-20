@@ -79,8 +79,8 @@ Notable differences in Preact:
 ### Bundle size: React and React DOM
 
 <p align="center">
-    <img align="left" style="display: inline;" src="./bundle-size--react.png" width="49%" height="auto" />
-    <img style="display: inline;" src="./bundle-size--react-dom.png" width="49%" height="auto" />
+    <img style="display: inline;" src="./bundle-size--react.png" width="60%" height="auto" />
+    <img style="display: inline;" src="./bundle-size--react-dom.png" width="60%" height="auto" />
 </p>
 
 ### Bundle size: Preact
