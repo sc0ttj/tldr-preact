@@ -153,7 +153,19 @@ $ npm install preact preact-compat
 
 Let `webpack` know that when we say 'react', we mean 'preact':
 
-In your webpack config:
+Simply add the following [resolve.alias](https://webpack.js.org/configuration/resolve/#resolvealias) configuration to your `webpack.config.js`:
+
+```js
+{
+  "resolve": {
+    "alias": {
+      "react": "preact-compat",
+      "react-dom": "preact-compat"
+    }
+  }
+}
+````
+or
 
 ```javascript
 config.resolve.alias['react'] = 'preact-compat';
