@@ -8,7 +8,7 @@ Read the [TDLR - React](https://github.com/sc0ttj/tldr-react) README first.
 - [Preact vs React](#preact-vs-react)
 - [Performance comparisons](#performance-comparisons)
 - [Using Preact](#using-preact)
-- [Using Preact in palce of React](#using-preact-in-place-of-react)
+- [Using Preact in place of React](#using-preact-in-place-of-react)
 - [Preact addons](#preact-addons)
 - [Further reading](#further-reading)
 
